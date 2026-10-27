@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.7.1](https://github.com/qixing-jk/all-api-hub/compare/v4.7.0...v4.7.1) (2026-10-27)
+
+
+### Bug Fixes
+
+* **e2e:** restore textarea resizing and stabilize browser compatibility checks ([#1771](https://github.com/qixing-jk/all-api-hub/issues/1771)) ([7f4881f](https://github.com/qixing-jk/all-api-hub/commit/7f4881f53c7e677a1f4fb500a66c9a7f07f8f94d))
+* **key-management:** show credential details and match hints before selection ([#1773](https://github.com/qixing-jk/all-api-hub/issues/1773)) ([ad3f43d](https://github.com/qixing-jk/all-api-hub/commit/ad3f43df65433b6c26f5dc88d1af771c83b3f588))
+
 ## [4.7.0](https://github.com/qixing-jk/all-api-hub/compare/v4.6.0...v4.7.0) (2026-10-26)
 
 
